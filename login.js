@@ -1,0 +1,1 @@
+alert("CRAZY WEB GAME ");
